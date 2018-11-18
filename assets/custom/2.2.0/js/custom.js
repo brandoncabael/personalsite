@@ -331,7 +331,7 @@
         (function () {
             if ($('[data-section="map"]').length) {
 
-                window.initGmap = function () {
+                window.initMap = function () {
 
                     // Create an array of styles.
                     var styles = [
@@ -391,10 +391,10 @@
                 };
 
                 if (document.getElementById('gmapSrc')) {
-                    initGmap();
+                    initMap();
                 }
 
-                loadScript('http://maps.googleapis.com/maps/api/js?key=AIzaSyBcTOXAAIYXmRmAEeuPK3Skb2NZ6FXgXRs&v=3&sensor=false&callback=initGmap', 'gmapSrc');
+                loadScript('https://maps.googleapis.com/maps/api/js?key=AIzaSyA2vdNW1e77E8_wAql4VBW7-eQTGK7-wcM&callback=initMap', 'gmapSrc');
             }
         })();
 
