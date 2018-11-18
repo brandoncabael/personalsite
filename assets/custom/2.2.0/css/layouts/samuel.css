@@ -18,21 +18,29 @@
 .timeline-samuel-01 {
   background: url("../../images/layouts/samuel/timeline/01.png");
   background-position: center;
-  background-size: cover; }
+  background-size: contain;
+  background-repeat: no-repeat;
+}
 
 .timeline-samuel-02 {
   background: url("../../images/layouts/samuel/timeline/02.png");
   background-position: center;
-  background-size: cover; }
+  background-size: contain;
+  background-repeat: no-repeat;
+}
 
 .timeline-samuel-03 {
   background: url("../../images/layouts/samuel/timeline/03.png");
   background-position: center;
-  background-size: cover; }
+  background-size: contain;
+  background-repeat: no-repeat;
+}
 
 .timeline-samuel-04 {
   background: url("../../images/layouts/samuel/timeline/04.png");
   background-position: center;
-  background-size: cover; }
+  background-size: contain;
+  background-repeat: no-repeat;
+}
 
 /*# sourceMappingURL=samuel.css.map */

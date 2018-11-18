@@ -1352,7 +1352,7 @@ button, input, select, textarea {
     margin-bottom: 20px;
     position: relative; }
     #timeline .timeline-vert li .timeline-photo {
-      min-height: 250px; }
+      min-height: 200px; }
     #timeline .timeline-vert li .timeline-time {
       padding: 6px 18px;
       position: absolute;
