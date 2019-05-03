@@ -43,4 +43,11 @@
   background-repeat: no-repeat;
 }
 
+.timeline-samuel-05 {
+  background: url("../../images/layouts/samuel/timeline/05.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 /*# sourceMappingURL=samuel.css.map */
